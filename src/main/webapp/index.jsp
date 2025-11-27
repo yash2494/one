@@ -33,7 +33,7 @@
         }
 
         body {
-            margin: 0;
+            margin: 2;
             font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
             color: var(--primary);
             background: var(--bg);
